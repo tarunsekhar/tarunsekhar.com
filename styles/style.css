@@ -28,5 +28,6 @@ h2:hover{
     background-color: yellow;
 }
 a{
-    text-underline-position: unset;
+    text-decoration: none;
+    color: inherit;
 }
