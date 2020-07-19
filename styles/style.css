@@ -27,3 +27,6 @@ h2:hover{
     box-sizing: initial;
     background-color: yellow;
 }
+a{
+    text-underline-position: unset;
+}
